@@ -13,5 +13,5 @@ def main():
         content = input("PLease enter file contents? \n")
         f.write(content)
 
-
-
+if __name__ == '__main__':
+    main()
